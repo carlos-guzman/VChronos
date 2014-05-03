@@ -20,5 +20,6 @@ node_modules
 .DS_Store
 Thumbs.db
 
-#Test file to check that I'm getting the right page to scrape. -Carlos
+#Test files to check that I'm getting the right page to scrape. -Carlos
+controllers/files
 controllers/test.html

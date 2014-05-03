@@ -1,4 +1,4 @@
-import cookielib, urllib2, urllib, BeautifulSoup, re, time, pickle
+import cookielib, urllib2, urllib, BeautifulSoup, re, time, json
 #from courses.helpers import *
  
 """
@@ -156,12 +156,17 @@ class Scraper:
         name = name.replace('&amp;', '&')
         try:
           course_name, course_code = re.search('(.*)\s\((.+)\)', name).groups()
-          data.append([college, course_name, course_code])
+          course_name = course_name.replace('\r', '');
+          data.append({"college":college, "course_name":course_name, "course_code":course_code})
         except:
           print name
-    f = open('%scollege-classifications.txt' % (self.DUMP_DIR), 'w')
-    pickle.dump(data, f)
-    f.close()
+
+
+    with open('files/college-classifications', 'w') as f:
+      for course in data:
+        f.write(json.dumps(course)+'\n');
+
+
     
   def _confirm_long_listing(self, ICStateNum):
     # basically, press "yes" to confirm showing more than 100 results
@@ -274,9 +279,16 @@ class Scraper:
         self.get_detail_for_course_in_section(id, ind, ICStateNum)
     print "%s classes processed" % (len(self.classes.keys()) - hold)
     print "%s total classes scraped" % len(self.classes.keys())
-    f = open('%s%s.txt' % (self.DUMP_DIR, id), 'w')
-    pickle.dump(self.classes, f)
-    f.close()
+    
+
+
+    with open('files/'+self.DUMP_DIR+id, 'w') as f:
+      for c in self.classes:
+          f.write(json.dumps(self.classes[c])+'\n')
+
+    # f = open('%s%s.txt' % (self.DUMP_DIR, id), 'w')
+    # pickle.dump(self.classes, f)
+    # f.close()
     self.classes = {}
     
     # django helper method, loads to db
@@ -329,7 +341,7 @@ class Scraper:
         classification = " ".join(bits[:-1])
         class_name = ''
       try:
-        units = re.search('([\w]+( - )?[\w]+ units)', "%s" % datacell).groups()[0]
+        units = re.search('([\d]+ units)', "%s" % datacell).groups()[0][0]
       except:
         try:
           # leftover units from previous session of same class, use
@@ -361,11 +373,18 @@ class Scraper:
         meet_data = re.search('(\d{2}/\d{2}/\d{4}[^<]*(at[^<]*)?(with[^<]*)?)\r', "%s" % datacell).groups()[0].strip(' \r\n')
       except:
         self.save = datacell
-    
+      
+      if is_open=="Closed" or is_open=="Cancelled":
+        is_open = False
+      else:
+        is_open = True
+
+      # "09/02/2014 - 12/12/2014 Tue 12.30 PM - 3.00 PM at 25W4 C-2 with Igsiz Matos Martin, Zehra"
+      #print re.search(meet_data)
       self.classes[classnum] = {
-        'classification': "%s" % classification,
+        'classification': classification,
         'number': "%s" % number,
-        'is_open': "%s" % is_open,
+        'is_open': is_open,
         'session': "%s" % session,
         'section': "%s" % section,
         'grading': "%s" % grading,
