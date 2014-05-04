@@ -1,5 +1,6 @@
 var secrets = require('../config/secrets');
-var Course = require('../models/Course').Course;
+var Course = require('../models/Course');
+var date = require('../helpers/date');
 
 exports.create = function(req, res) {
 
@@ -13,39 +14,34 @@ exports.create = function(req, res) {
   if (errors) {
     return errors;
   } else {
-    var course = new Course({
-      class_name: req.body.class_name,
-      classification: req.body.classification,
-      college: req.body.college,
-      component: req.body.component,
-      course_name: req.body.course_name,
-      description: req.body.description,
-      grading: req.body.grading,
-      instructor: req.body.instructor,
-      is_open: req.body.is_open,
-      location: req.body.location,
-      loc_code: req.body.loc_code,
-      meet_data: req.body.meet_data,
-      notes: req.body.notes,
-      number: req.body.number,
-      section: req.body.section,
-      session: req.body.session,
-      units: req.body.units
-    });
+    for (var i = 0; i < req.body.meet_data.length; i++) {
+      var data = req.body.meet_data[i];
+      data.start = date.short_date(data.day, data.start);
+      data.end = date.short_date(data.day, data.start);
+      delete req.body.meet_data[i].day;
+    }
+    req.body.session = {
+      start: date.long_date(req.body.session.start),
+      end: date.long_date(req.body.session.end),
+    }
+    var course = new Course(req.body);
 
-    Course.findOne({class_name: req.body.class_name, section: req.body.section}, function(err, existingCourse) {
-      if (existingCourse) {
-        return 'Course with that class_name and section already exists.';
-      } else if (err) {
-        return err;
-      } else {
-        course.save(function(err) {
-          if (err) {
-            return next(err);
-          }
-        });
-        return 'Course created successfuly.';
+    Course.findOne(
+      {class_name: req.body.class_name, section: req.body.section},
+      function(err, existingCourse) {
+        if (existingCourse) {
+          return 'Course with that class_name and section already exists.';
+        } else if (err) {
+          return err;
+        } else {
+          course.save(function(err) {
+            if (err) {
+              return next(err);
+            }
+          });
+          return 'Course created successfuly.';
+        }
       }
-    });
+    );
   }
 };
