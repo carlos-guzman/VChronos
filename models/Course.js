@@ -1,18 +1,13 @@
 var mongoose = require('mongoose');
 
 var timeRangeSchema = new mongoose.Schema({
-  start: Date,
-  end: Date,
-  day: {type: String, default: ''}
+  start: {type: Date, required: true},
+  end: {type: Date, required: true},
 });
 
 timeRangeSchema.methods.conflictsWith = function (other) {
-  if (this.day != other.day) {
-    return false;
-  } else {
-    return ((this.start < other.start) && (this.end > other.start)) ||
-           ((this.start > other.start) && (this.start < other.end));
-  }
+  return ((this.start < other.start) && (this.end > other.start)) ||
+         ((this.start > other.start) && (this.start < other.end));
 };
 
 timeRangeSchema.methods.duration = function () {
@@ -20,37 +15,18 @@ timeRangeSchema.methods.duration = function () {
 };
 
 var courseSchema = new mongoose.Schema({
-/*
-  '$course_id': {
-    'class_name': 'Animal Minds',
-    'classification': 'ANST-UA',
-    'college': 'College of Arts and Science',
-    'component': 'Lecture',
-    'course_name': 'Topics is AS',
-    'description': 'This course analyzes the ways that...',
-    'grading': 'CAS Graded',
-    'is_open': 'Open',
-    'level': 'Undergraduate',
-    'loc_code': 'WS',
-    'meet_data': '09/06/2011 - 12/23/2011 Mon,Wed 11.00 AM - 12.15 PM with Sebo, Jeffrey',
-    'notes': 'Open only to ANST minors during the first...',
-    'number': '600',
-    'section': '001',
-    'session': '09/06/2011 - 12/16/2011',
-  }
-*/
   class_name: {type: String, index: true, required: true},
   classification: {type: String, index: true, required: true},
   college: {type: String, index: true, required: true},
   component: String,
-  course_name: {type: String, index: true, required: true},
+  course_name: {type: String, index: true},
   description: {type: String, default: '', index: true},
   grading: String,
-  instructor: {type: String, default: '', index: true},
+  instructors: {type: [String], default: [''], index: true},
   is_open: {type: Boolean, required: true},
-  level: String,
   loc_code: {type: String, required: true},
-  meet_data: [timeRangeSchema],
+  location: String,
+  meet_data: {type: [timeRangeSchema], required: true},
   notes: String,
   number: String,
   section: String,
@@ -72,4 +48,6 @@ courseSchema.methods.conflictsWith = function (other) {
   }
 };
 
-module.exports = mongoose.model('Course', courseSchema);
+exports.Course = mongoose.model('Course', courseSchema);
+exports.courseSchema = courseSchema;
+exports.timeRangeSchema = timeRangeSchema;
