@@ -1,0 +1,120 @@
+extends layout
+script.
+    $(".auto_submit_item").change(function() {
+        $(this).parents("form").submit();
+    });
+    $("#sche1").click(function () {
+        alert($(this).attr("id"));
+    });
+block content
+    #restrictions(style='width: 30%; margin: 0 auto;float:left')
+        form(name='restrictionForm')
+        h3(align='center') Restrictions
+        fieldset
+            legend Days: 
+            label
+                input(type= 'checkbox', name='Mon')
+                |  Monday
+            label
+                |&nbsp;&nbsp;  
+                input(type= 'checkbox', name='Tue')
+                |  Tuesday  
+            label
+                |&nbsp;&nbsp;
+                input(type= 'checkbox', name='Wed')
+                |  Wednesday  
+            label
+                |&nbsp;&nbsp;
+                input(type= 'checkbox', name='Thu')
+                |  Thursday  
+            label
+                |&nbsp;&nbsp;
+                input(type= 'checkbox', name='Fri')
+                |  Friday  
+        fieldset
+            legend Hours:                
+            | From:  
+            select(name = 'from', style ='position:relative; float:middle')
+                each hour in [7, 8, 9, 10, 11]
+                    each half in ["00", 30]
+                        option( value=hour+"."+half+" AM")|#{hour}.#{half} AM
+                each hour in [12, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+                    each half in ["00", 30]
+                        option( value=hour+"."+half+" AM")|#{hour}.#{half} PM  
+            br
+            | To:    
+            select(name = 'to', style = 'position:relative; float:center')
+                each hour in [7, 8, 9, 10, 11]
+                    each half in ["00", 30]
+                        option( value=hour+"."+half+" AM")|#{hour}.#{half} AM
+                each hour in [12, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+                    each half in ["00", 30]
+                        option(value=hour+"."+half+" AM")|#{hour}.#{half} PM
+        br  
+        p
+        fieldset
+            | Allow back to back       
+            input(type= 'checkbox' name='backtoback' checked=true)
+        p
+        fieldset
+            legend Order courses by:
+            select(name='orderby')
+                option(value='classification') Classification
+                option(value='minunit') Minimum units
+                option(value='maxunit') Maximum units
+
+    #schedules(style='width:30%; position:relative; float:left')
+        h3(align='center') You have 5 schedules
+        #sche1(style='height:20 %; background: #57068c; color:white')
+            ul
+                li First class
+                li Second class
+                li Third class
+                li Fourth class
+
+        #sche2(style='height:20 %; background: #57068c; color:white' onClick="alert('Change the current schedule!'');")
+            ul
+                li First class
+                li Second class
+                li Third class
+                li Fourth class
+                li Fifth class
+
+        | And keep iterating... 
+
+    #currentSchedule(style='width:30%; position:relative; float:right')
+        h3(align='center') Current schedule
+        #sche(style='height:20 %; background: #57068c; color:white')
+            ul
+                li First class
+                li Second class
+                li Third class
+                li Fourth class
+                li Fifth class        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
