@@ -1,5 +1,5 @@
 var secrets = require('../config/secrets');
-var Course = require('../models/Course');
+var Course = require('../models/Course').Course;
 
 exports.create = function(req, res) {
 
@@ -23,13 +23,14 @@ exports.create = function(req, res) {
       grading: req.body.grading,
       instructor: req.body.instructor,
       is_open: req.body.is_open,
-      level: req.body.level,
+      location: req.body.location,
       loc_code: req.body.loc_code,
       meet_data: req.body.meet_data,
       notes: req.body.notes,
       number: req.body.number,
       section: req.body.section,
       session: req.body.session,
+      units: req.body.units
     });
 
     Course.findOne({class_name: req.body.class_name, section: req.body.section}, function(err, existingCourse) {
