@@ -30,6 +30,7 @@ var userController = require('./controllers/user');
 var apiController = require('./controllers/api');
 var contactController = require('./controllers/contact');
 var courseController = require('./controllers/course');
+var scheduleController = require('./controllers/schedule');
 
 /**
  * API keys + Passport configuration.
@@ -116,6 +117,8 @@ app.use(function(req, res, next) {
 app.get('/', homeController.index);
 app.get('/login', userController.getLogin);
 app.post('/login', userController.postLogin);
+app.get('/schedule/interact', scheduleController.getInteract);
+app.get('/schedule/create', scheduleController.getCreate);
 app.get('/logout', userController.logout);
 app.get('/forgot', userController.getForgot);
 app.post('/forgot', userController.postForgot);
