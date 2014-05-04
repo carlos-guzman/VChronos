@@ -22,7 +22,9 @@ Can whip up a command-line version if anyone wants it.
 >>> s.run()
  
 Data is pickled per-course category as follows:
- 
+ Publicly in Albert there are only Undergraduate courses, so 'level' will be available in future versions
+
+
 classes = {
   '$course_id': {
     'class_name': 'Animal Minds',
@@ -227,8 +229,8 @@ class Scraper:
       except:
         classification, number, name = None, None, None
       
-      # print c
-      description, meta, college, units, level = '', '', '', '', ''
+      description, meta, college, units = '', '', '', ''
+      # level = ''
       try:
         description = c.find('div', {'class': 'courseDescription'}).find('p').contents[0]
       except: pass
@@ -241,9 +243,9 @@ class Scraper:
       try:
         units = meta[1].split(':')[1].strip()
       except: pass
-      try:
-        level = meta[2].split(':')[1].strip()
-      except: pass
+      # try:
+      #   level = meta[2].split(':')[1].strip()
+      # except: pass
       
       try:
         index = c.findNext('td', {'class': 'SSSGROUPBOXRIGHTLABEL'}).findNext('a')['name'].split('$')[1]
@@ -258,7 +260,7 @@ class Scraper:
           'number': number, 
           'college': college, 
           'units': units, 
-          'level': level, 
+          # 'level': level, 
           'index': index}
   
   def process_section(self, id):
@@ -390,7 +392,6 @@ class Scraper:
         days_arr = re.search('\w{3}(,\w{3})*', element[24:]).group(0).split(',')
         for day in days_arr:
           meet_data_time.append({'start':time_arr[0], 'end':time_arr[1], 'day':day})
-          print 'aaa'
           try:
             instructors =  re.search('with .*', element).group(0).replace('with ', '')
             instructor = instructors.split(';')
@@ -399,38 +400,43 @@ class Scraper:
                 instructor_arr.append(i)
           except:
             pass
+
+          location1 = ''
+          try:
+            location1 = re.search('at .*', element).group(0)
+          except:
+            pass
+          try:
+            location1 = re.search('at .* with', element).group(0)
+          except:
+            pass
           
-          # location1 = re.search('at .* with', element)
-          # print location1+'asdf'
-          # if location1 is None:
-          #   location1 = re.search('at .*', element)
-          # location = location1.replace('at ', '')
-          # print location
-          # location = location.replace(' with', '')
+          location = location1.replace('at ', '')
+          location = location.replace(' with', '')
           
       # meet_data_time = 
       #[ {'start': , 'end': , 'day': }, {'start': , 'end': , 'day': }]
       # print time['start']+'   '+time['end']
       #print re.search(meet_data)
       self.classes[classnum] = {
+        'class_name': class_name,
         'classification': classification,
-        'number': "%s" % number,
-        'is_open': is_open,
-        'session': session_time,
-        'section': "%s" % section,
-        'grading': "%s" % grading,
-        'loc_code': "%s" % loccode,
+        'college': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['college'],
         'component': "%s" % component,
+        'course_name': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['name'],
+        'description': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['description'],
+        'grading': "%s" % grading,
+        'instructors': instructor_arr,
+        'is_open': is_open,
+        # 'level': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['level'],
+        'loc_code': "%s" % loccode,
+        'location': "%s" % location,
         'meet_data': "%s" % meet_data_time,
         'notes': "%s" % notes,
-        'level': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['level'],
-        'course_name': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['name'],
-        'college': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['college'],
-        'description': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['description'],
-        'class_name': "%s" % class_name,
+        'number': "%s" % number,
+        'section': "%s" % section,
+        'session': session_time,
         'units': "%s" % units,
-        'instructor': "%s" % instructor_arr,
-        'location': "%s" % location,
       }
     
     return True
