@@ -1,4 +1,4 @@
-import cookielib, urllib2, urllib, BeautifulSoup, re, time, json
+import cookielib, urllib2, urllib, BeautifulSoup, re, time, json, os
 #from courses.helpers import *
  
 """
@@ -264,35 +264,37 @@ class Scraper:
           'index': index}
   
   def process_section(self, id):
+
+
     try:
       id = self.sections[id][0]
     except:
       return
-    hold = len(self.classes.keys())
-    ICStateNum = self.get_section_listing(id) + 1
-    keys = {}
-    for key in self.section_data[id].keys():
-      # uniquify it
-      keys[key] = 1
-    total = len(keys.keys())
-    for i, key in enumerate(sorted(keys.keys())):
-      ind = self.section_data[id][key]['index']
-      if ind:
-        print "  grabbing course %s of %s..." % (i + 1, total)
-        self.get_detail_for_course_in_section(id, ind, ICStateNum)
-    print "%s classes processed" % (len(self.classes.keys()) - hold)
-    print "%s total classes scraped" % len(self.classes.keys())
     
+    filename = 'files/%s%s' % (self.DUMP_DIR, id)
+    print filename
+    if not os.path.isfile(filename):
+      hold = len(self.classes.keys())
+      ICStateNum = self.get_section_listing(id) + 1
+      keys = {}
+      for key in self.section_data[id].keys():
+        # uniquify it
+        keys[key] = 1
+      total = len(keys.keys())
+      for i, key in enumerate(sorted(keys.keys())):
+        ind = self.section_data[id][key]['index']
+        if ind:
+          print "  grabbing course %s of %s..." % (i + 1, total)
+          self.get_detail_for_course_in_section(id, ind, ICStateNum)
+      print "%s classes processed" % (len(self.classes.keys()) - hold)
+      print "%s total classes scraped" % len(self.classes.keys())
+      
 
+      with open(filename, 'w') as f:
+        for c in self.classes:
+            f.write(json.dumps(self.classes[c])+'\n')
 
-    with open('files/'+self.DUMP_DIR+id, 'w') as f:
-      for c in self.classes:
-          f.write(json.dumps(self.classes[c])+'\n')
-
-    # f = open('%s%s.txt' % (self.DUMP_DIR, id), 'w')
-    # pickle.dump(self.classes, f)
-    # f.close()
-    self.classes = {}
+      self.classes = {}
     
     # django helper method, loads to db
     #load_listing(id)
