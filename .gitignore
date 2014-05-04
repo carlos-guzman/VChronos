@@ -20,4 +20,10 @@ node_modules
 .DS_Store
 Thumbs.db
 
+<<<<<<< HEAD
 *.pyc
+=======
+#Test files to check that I'm getting the right page to scrape. -Carlos
+controllers/files
+controllers/test.html
+>>>>>>> albertscrape
