@@ -227,6 +227,7 @@ class Scraper:
       except:
         classification, number, name = None, None, None
       
+      # print c
       description, meta, college, units, level = '', '', '', '', ''
       try:
         description = c.find('div', {'class': 'courseDescription'}).find('p').contents[0]
@@ -379,18 +380,48 @@ class Scraper:
       else:
         is_open = True
 
-      # "09/02/2014 - 12/12/2014 Tue 12.30 PM - 3.00 PM at 25W4 C-2 with Igsiz Matos Martin, Zehra"
+      # "09/02/2014 - 12/12/2014 Tue,Thu 12.30 PM - 3.00 PM at 25W4 C-2 with Igsiz Matos Martin, Zehra"
+      session_time = {'start': session[2:12], 'end': session[15:], 'day': ''}
+      meet_data_arr = meet_data.split('\n')
+      meet_data_time = []
+      instructor_arr = []
+      for element in meet_data_arr:
+        time_arr = re.search('\d+\.\d+ ?[AP]M[ -]*\d+\.\d+ ?[AP]M', element[24:]).group(0).split(' - ')
+        days_arr = re.search('\w{3}(,\w{3})*', element[24:]).group(0).split(',')
+        for day in days_arr:
+          meet_data_time.append({'start':time_arr[0], 'end':time_arr[1], 'day':day})
+          print 'aaa'
+          try:
+            instructors =  re.search('with .*', element).group(0).replace('with ', '')
+            instructor = instructors.split(';')
+            for i in instructor:
+              if instructor not in instructor_arr:
+                instructor_arr.append(i)
+          except:
+            pass
+          
+          # location1 = re.search('at .* with', element)
+          # print location1+'asdf'
+          # if location1 is None:
+          #   location1 = re.search('at .*', element)
+          # location = location1.replace('at ', '')
+          # print location
+          # location = location.replace(' with', '')
+          
+      # meet_data_time = 
+      #[ {'start': , 'end': , 'day': }, {'start': , 'end': , 'day': }]
+      # print time['start']+'   '+time['end']
       #print re.search(meet_data)
       self.classes[classnum] = {
         'classification': classification,
         'number': "%s" % number,
         'is_open': is_open,
-        'session': "%s" % session,
+        'session': session_time,
         'section': "%s" % section,
         'grading': "%s" % grading,
         'loc_code': "%s" % loccode,
         'component': "%s" % component,
-        'meet_data': "%s" % meet_data,
+        'meet_data': "%s" % meet_data_time,
         'notes': "%s" % notes,
         'level': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['level'],
         'course_name': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['name'],
@@ -398,6 +429,8 @@ class Scraper:
         'description': "%s" % self.section_data[id]["%s-%s" % (classification, number)]['description'],
         'class_name': "%s" % class_name,
         'units': "%s" % units,
+        'instructor': "%s" % instructor_arr,
+        'location': "%s" % location,
       }
     
     return True
