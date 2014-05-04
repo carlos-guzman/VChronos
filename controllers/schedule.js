@@ -9,7 +9,3 @@ exports.getCreate = function(req, res) {
     title: 'Create your Schedule'
   });
 };
-
-
-
-
