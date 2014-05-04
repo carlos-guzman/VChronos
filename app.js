@@ -29,6 +29,7 @@ var homeController = require('./controllers/home');
 var userController = require('./controllers/user');
 var apiController = require('./controllers/api');
 var contactController = require('./controllers/contact');
+var scheduleController = require('./controllers/schedule');
 var courseController = require('./controllers/course');
 
 /**
@@ -114,6 +115,8 @@ app.use(function(req, res, next) {
  */
 
 app.get('/', homeController.index);
+app.get('/schedule/create', scheduleController.create);
+app.get('/schedule', scheduleController.interact);
 app.get('/login', userController.getLogin);
 app.post('/login', userController.postLogin);
 app.get('/logout', userController.logout);
