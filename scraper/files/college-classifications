@@ -1,0 +1,761 @@
+{"course_name": "Advanced Honors Seminars", "course_code": "AHSEM-UA", "college": "College of Arts and Science"}
+{"course_name": "American Studies - Social and   Cultural Analysis", "course_code": "SCA-UA2", "college": "College of Arts and Science"}
+{"course_name": "Anthropology", "course_code": "ANTH-UA", "college": "College of Arts and Science"}
+{"course_name": "Asian/Pacific/American Studies   - Social and Cultural Analysis", "course_code": "SCA-UA3", "college": "College of Arts and Science"}
+{"course_name": "CAS Scholars Program", "course_code": "SCHOL-UA", "college": "College of Arts and Science"}
+{"course_name": "Child/Adoles Mental Hlth Stds", "course_code": "CAMHS-UA", "college": "College of Arts and Science"}
+{"course_name": "Classics", "course_code": "CLASS-UA", "college": "College of Arts and Science"}
+{"course_name": "Collegiate Seminar Program", "course_code": "COSEM-UA", "college": "College of Arts and Science"}
+{"course_name": "Computer Science", "course_code": "CSCI-UA", "college": "College of Arts and Science"}
+{"course_name": "Dramatic Literature", "course_code": "DRLIT-UA", "college": "College of Arts and Science"}
+{"course_name": "Economics", "course_code": "ECON-UA", "college": "College of Arts and Science"}
+{"course_name": "English", "course_code": "ENGL-UA", "college": "College of Arts and Science"}
+{"course_name": "European and Mediterranean Studies   ", "course_code": "EURO-UA", "college": "College of Arts and Science"}
+{"course_name": "French", "course_code": "FREN-UA", "college": "College of Arts and Science"}
+{"course_name": "Freshman Honors Seminars", "course_code": "FRSEM-UA", "college": "College of Arts and Science"}
+{"course_name": "German", "course_code": "GERM-UA", "college": "College of Arts and Science"}
+{"course_name": "Hamilton Program", "course_code": "ALHAM-UA", "college": "College of Arts and Science"}
+{"course_name": "Hellenic Studies", "course_code": "HEL-UA", "college": "College of Arts and Science"}
+{"course_name": "International Relations", "course_code": "INTRL-UA", "college": "College of Arts and Science"}
+{"course_name": "Italian", "course_code": "ITAL-UA", "college": "College of Arts and Science"}
+{"course_name": "Latino Studies - Social and Cultural   Analysis", "course_code": "SCA-UA5", "college": "College of Arts and Science"}
+{"course_name": "Linguistics", "course_code": "LING-UA", "college": "College of Arts and Science"}
+{"course_name": "Medieval & Renaissance Studies", "course_code": "MEDI-UA", "college": "College of Arts and Science"}
+{"course_name": "Middle Eastern and Islamic Studies   ", "course_code": "MEIS-UA", "college": "College of Arts and Science"}
+{"course_name": "Music", "course_code": "MUSIC-UA", "college": "College of Arts and Science"}
+{"course_name": "Non-Departmental", "course_code": "NODEP-UA", "college": "College of Arts and Science"}
+{"course_name": "Physics", "course_code": "PHYS-UA", "college": "College of Arts and Science"}
+{"course_name": "Pontif Univ. Cat-Chile Courses", "course_code": "PONT", "college": "College of Arts and Science"}
+{"course_name": "Psychology", "course_code": "PSYCH-UA", "college": "College of Arts and Science"}
+{"course_name": "Russian & Slavic Studies", "course_code": "RUSSN-UA", "college": "College of Arts and Science"}
+{"course_name": "Sociology", "course_code": "SOC-UA", "college": "College of Arts and Science"}
+{"course_name": "Africana Studies - Social and   Cultural Analysis", "course_code": "SCA-UA1", "college": "College of Arts and Science"}
+{"course_name": "Animal Studies", "course_code": "ANST-UA", "college": "College of Arts and Science"}
+{"course_name": "Art History", "course_code": "ARTH-UA", "college": "College of Arts and Science"}
+{"course_name": "Biology", "course_code": "BIOL-UA", "college": "College of Arts and Science"}
+{"course_name": "Chemistry", "course_code": "CHEM-UA", "college": "College of Arts and Science"}
+{"course_name": "Child/Adoles Mental Hlth Stds", "course_code": "CAMS-UA", "college": "College of Arts and Science"}
+{"course_name": "College Core Curriculum", "course_code": "CORE-UA", "college": "College of Arts and Science"}
+{"course_name": "Comparative Literature", "course_code": "COLIT-UA", "college": "College of Arts and Science"}
+{"course_name": "Creative Writing", "course_code": "CRWRI-UA", "college": "College of Arts and Science"}
+{"course_name": "East Asian Studies", "course_code": "EAST-UA", "college": "College of Arts and Science"}
+{"course_name": "Engineering Pgm with Stevens", "course_code": "STVNS-UA", "college": "College of Arts and Science"}
+{"course_name": "Environmental Studies", "course_code": "ENVST-UA", "college": "College of Arts and Science"}
+{"course_name": "Expository Writing", "course_code": "EXPOS-UA", "college": "College of Arts and Science"}
+{"course_name": "Freshman Cohort Meeting", "course_code": "COHRT-UA", "college": "College of Arts and Science"}
+{"course_name": "Gender & Sexuality Studies - Social   and Cultural Analysis", "course_code": "SCA-UA4", "college": "College of Arts and Science"}
+{"course_name": "Global Programs", "course_code": "GLBL-UA", "college": "College of Arts and Science"}
+{"course_name": "Hebrew & Judaic Studies", "course_code": "HBRJD-UA", "college": "College of Arts and Science"}
+{"course_name": "History", "course_code": "HIST-UA", "college": "College of Arts and Science"}
+{"course_name": "Irish Studies", "course_code": "IRISH-UA", "college": "College of Arts and Science"}
+{"course_name": "Journalism", "course_code": "JOUR-UA", "college": "College of Arts and Science"}
+{"course_name": "Law and Society", "course_code": "LWSOC-UA", "college": "College of Arts and Science"}
+{"course_name": "Math", "course_code": "MATH-UA", "college": "College of Arts and Science"}
+{"course_name": "Metropolitan Studies - Social   and Cultural Analysis", "course_code": "SCA-UA6", "college": "College of Arts and Science"}
+{"course_name": "Morse Academic Plan (MAP)", "course_code": "MAP-UA", "college": "College of Arts and Science"}
+{"course_name": "Neural Science", "course_code": "NEURL-UA", "college": "College of Arts and Science"}
+{"course_name": "Philosophy", "course_code": "PHIL-UA", "college": "College of Arts and Science"}
+{"course_name": "Politics", "course_code": "POL-UA", "college": "College of Arts and Science"}
+{"course_name": "Portuguese", "course_code": "PORT-UA", "college": "College of Arts and Science"}
+{"course_name": "Religious Studies", "course_code": "RELST-UA", "college": "College of Arts and Science"}
+{"course_name": "Social and Cultural Analysis", "course_code": "SCA-UA", "college": "College of Arts and Science"}
+{"course_name": "Spanish", "course_code": "SPAN-UA", "college": "College of Arts and Science"}
+{"course_name": "Basic Sciences", "course_code": "BAS01-DN", "college": "College of Dentistry"}
+{"course_name": "Behavioral Sciences", "course_code": "BEH03-DN", "college": "College of Dentistry"}
+{"course_name": "Behavioral Sciences", "course_code": "BEHSC-DN", "college": "College of Dentistry"}
+{"course_name": "Clinical Sciences", "course_code": "CLS01-DN", "college": "College of Dentistry"}
+{"course_name": "Clinical Sciences", "course_code": "CLS06-DN", "college": "College of Dentistry"}
+{"course_name": "Dental Hygiene", "course_code": "DHYGG-UD", "college": "College of Dentistry"}
+{"course_name": "Dental Hygiene BS", "course_code": "DHYG3-UD", "college": "College of Dentistry"}
+{"course_name": "Dental Hygiene Level 2", "course_code": "DHYG2-DN", "college": "College of Dentistry"}
+{"course_name": "Diagnostic Sciences", "course_code": "DGSCI-DN", "college": "College of Dentistry"}
+{"course_name": "Ethics", "course_code": "ETHIC-DN", "college": "College of Dentistry"}
+{"course_name": "Intro to Clinics", "course_code": "PRECL-DN", "college": "College of Dentistry"}
+{"course_name": "Basic Sciences", "course_code": "BASCI-DN", "college": "College of Dentistry"}
+{"course_name": "Behavioral Sciences", "course_code": "BEH05-DN", "college": "College of Dentistry"}
+{"course_name": "Biomaterials", "course_code": "BIOM-DN", "college": "College of Dentistry"}
+{"course_name": "Clinical Sciences", "course_code": "CLS03-DN", "college": "College of Dentistry"}
+{"course_name": "Clinical Sciences", "course_code": "CLSCI-DN", "college": "College of Dentistry"}
+{"course_name": "Dental Hygiene BS", "course_code": "DHYG3-DN", "college": "College of Dentistry"}
+{"course_name": "Dental Hygiene Level 1", "course_code": "DHYG1-UD", "college": "College of Dentistry"}
+{"course_name": "Dental Hygiene Level 2", "course_code": "DHYG2-UD", "college": "College of Dentistry"}
+{"course_name": "Ethics", "course_code": "ETH05-DN", "college": "College of Dentistry"}
+{"course_name": "Implant Dentistry", "course_code": "IMPLA-DN", "college": "College of Dentistry"}
+{"course_name": "Maintenance", "course_code": "MAINT-UD", "college": "College of Dentistry"}
+{"course_name": "Continuing Dental Education", "course_code": "CCDE-CD", "college": "College of Dentistry - Continuing Education"}
+{"course_name": "Maintenance", "course_code": "MAINT-UN", "college": "College of Nursing"}
+{"course_name": "Nursing - Undergraduate", "course_code": "NURSE-UN", "college": "College of Nursing"}
+{"course_name": "Nursing - Graduate", "course_code": "NURSE-GN", "college": "College of Nursing"}
+{"course_name": "Ctr for Urban Sci and Progress", "course_code": "CUSP-GX", "college": "Ctr for Urban Sci and Progress"}
+{"course_name": "Advanced Writing Courses", "course_code": "WRTNG-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Community Learning", "course_code": "CLI-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Electives", "course_code": "ELEC-GG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "GESP", "course_code": "GESP-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Individualized Projects", "course_code": "INDIV-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Maintenance", "course_code": "MAINT-GG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Practicum", "course_code": "PRACT-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Scholarly Communities", "course_code": "SCHOL-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Travel Courses", "course_code": "TRAVL-GG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Arts Workshops", "course_code": "ARTS-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Core", "course_code": "CORE-GG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "First Year program", "course_code": "FIRST-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Individualized Projects", "course_code": "INDIV-GG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Interdisciplinary Seminars", "course_code": "IDSEM-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Music Instrumental: Jazz", "course_code": "MPAJZ-UE", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Scholarly Communities", "course_code": "SCHOL-GG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Study Away Seminar", "course_code": "SASEM-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Travel Courses", "course_code": "TRAVL-UG", "college": "Gallatin School of Individualized Study"}
+{"course_name": "Africana Studies", "course_code": "AFRS-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Anthropology", "course_code": "ANTH-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Basic Medical Science", "course_code": "BMSC-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Biology", "course_code": "BIOL-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Cinema Studies", "course_code": "CINE-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Comparative Literature", "course_code": "COLIT-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Computer Science", "course_code": "CSCI-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Consortium Courses", "course_code": "CONS-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Ctr for Atmosphere Ocean Sci", "course_code": "CAOS-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Draper MA Program", "course_code": "DRAP-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "East Asian Studies", "course_code": "EAST-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "English", "course_code": "ENGL-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "European and Mediterranean Studies   ", "course_code": "EURO-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "French", "course_code": "FREN-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Grad School of Arts & Science", "course_code": "GSAS-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Hebrew and Judaic Studies", "course_code": "HBRJD-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "History", "course_code": "HIST-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Institute of French Studies", "course_code": "IFST-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Irish Studies", "course_code": "IRISH-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Journalism", "course_code": "JOUR-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Law and Society", "course_code": "LWSOC-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Maintenance", "course_code": "MAINT-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Medieval & Renaissance Studies", "course_code": "MEDI-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Museum Studies", "course_code": "MSMS-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Near Eastern Studies", "course_code": "NEST-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Performance Studies", "course_code": "PERF-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Physics", "course_code": "PHYS-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Politics", "course_code": "POL-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Psychology", "course_code": "PSYCH-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Religious Studies", "course_code": "RELST-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Social and Cultural Analysis", "course_code": "SCA-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Spanish", "course_code": "SPAN-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "American Studies", "course_code": "AMST-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Art and Architecture", "course_code": "ARTH-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Bioethics", "course_code": "BIOE-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Chemistry", "course_code": "CHEM-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Classics", "course_code": "CLASS-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Computational Biology", "course_code": "COMP-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Consortium Courses", "course_code": "CONS", "college": "Graduate School of Arts and Science"}
+{"course_name": "Creative Writing", "course_code": "CRWRI-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Data Science", "course_code": "DS-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Earth System Science", "course_code": "APSC-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Economics", "course_code": "ECON-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Environmental Health Science", "course_code": "EHSC-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Fine Arts", "course_code": "FINH-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "German", "course_code": "GERM-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Hebrew & Judaic Studies", "course_code": "HBRJD-UA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Hellenic Studies", "course_code": "HEL-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Inst Study of the Ancient Wrld", "course_code": "ISAW-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "International Relations", "course_code": "INTRL-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Italian", "course_code": "ITAL-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Latin Amer-Caribbean Studies", "course_code": "LATC-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Linguistics", "course_code": "LING-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Mathematics", "course_code": "MATH-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Middle Eastern Studies", "course_code": "MEIS-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Music", "course_code": "MUSIC-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Neural Science", "course_code": "NEURL-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Philosophy", "course_code": "PHIL-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Poetics and Theory", "course_code": "POET-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Portuguese", "course_code": "PORT-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Psychotherapy & Psychoanalysis   ", "course_code": "PDPSA-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Russian & Slavic Studies", "course_code": "RUSSN-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Sociology", "course_code": "SOC-GA", "college": "Graduate School of Arts and Science"}
+{"course_name": "Accounting", "course_code": "ACCT-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Business & Society", "course_code": "BSPA-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Core Course", "course_code": "COR1-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Dissertation Seminar", "course_code": "DISS-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "European Cert. Program", "course_code": "DBIN-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Exec MS Risk Management", "course_code": "XRM1-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Finance", "course_code": "FINC-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Honors Seminar (non-credit)", "course_code": "HONR-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Information Systems", "course_code": "INFO-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Interarea", "course_code": "INTA-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "MS in Business Analytics", "course_code": "XBA1-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Management", "course_code": "MGMT-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Management Communications", "course_code": "MCOM-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Marketing", "course_code": "MKTG-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Operations Management", "course_code": "OPMG-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "PHD Consortium", "course_code": "B77.", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Poly/Stern Non-PhD Courses", "course_code": "POLY-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Statistics & Operations Research   ", "course_code": "STAT-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Stern Economics", "course_code": "ECON-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Taxation", "course_code": "TAX-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Accounting", "course_code": "ACCT-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Business and Political Economy   Program", "course_code": "BPEP-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Core Course, capstone", "course_code": "COR2-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Economics", "course_code": "ECON-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Exec MBA Intl: Trium", "course_code": "XTR1-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Executive MS- HKUST", "course_code": "XGF1-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Finance", "course_code": "FINC-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Honors Seminar (non-credit)", "course_code": "NOCR-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Information Systems", "course_code": "INFO-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "International Management Pgrm", "course_code": "IMPG-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Maintenance", "course_code": "MAINT-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Management", "course_code": "MGMT-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Marketing", "course_code": "MKTG-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Multidisciplinary", "course_code": "MULT-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Operations Management", "course_code": "OPMG-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "PHD Consortium", "course_code": "PHDC-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Social Impact", "course_code": "SOIM-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Statistics & Operations Rsrch", "course_code": "STAT-GB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Study Abroad", "course_code": "IBEX-UB", "college": "Leonard N. Stern School of Business"}
+{"course_name": "Advanced Global Cultures I", "course_code": "AGCI-UF", "college": "Liberal Studies"}
+{"course_name": "Advanced Writing Studio", "course_code": "AWS-UF", "college": "Liberal Studies"}
+{"course_name": "Approaches: Sophomore Seminar", "course_code": "APR-UF", "college": "Liberal Studies"}
+{"course_name": "Creative Writing I", "course_code": "CWI- UF", "college": "Liberal Studies"}
+{"course_name": "Creative Writing: Global Voice", "course_code": "CWGV-UF", "college": "Liberal Studies"}
+{"course_name": "Cultural Foundations II", "course_code": "CFII-UF", "college": "Liberal Studies"}
+{"course_name": "Dean&#039;s Circle", "course_code": "DC-UF", "college": "Liberal Studies"}
+{"course_name": "Economics I", "course_code": "ECI-UF", "college": "Liberal Studies"}
+{"course_name": "Environmental Studies", "course_code": "ENSTU-UF", "college": "Liberal Studies"}
+{"course_name": "Experiential Learning II", "course_code": "EXLII-UF", "college": "Liberal Studies"}
+{"course_name": "Global Writing Seminar", "course_code": "GWS-UF", "college": "Liberal Studies"}
+{"course_name": "Independent Study", "course_code": "IND-UF", "college": "Liberal Studies"}
+{"course_name": "Introduction to Global Studies   ", "course_code": "INTGS-UF", "college": "Liberal Studies"}
+{"course_name": "Latin American Cultures- Global   Cultures", "course_code": "LAGC-UF", "college": "Liberal Studies"}
+{"course_name": "Middle Eastern Cultures- Global   Cultures", "course_code": "MEGC-UF", "college": "Liberal Studies"}
+{"course_name": "Senior Capstone I", "course_code": "SCAI-UF", "college": "Liberal Studies"}
+{"course_name": "Senior Thesis", "course_code": "SRTH-UF", "college": "Liberal Studies"}
+{"course_name": "Senior Thesis II", "course_code": "STHII-UF", "college": "Liberal Studies"}
+{"course_name": "Social Foundations II", "course_code": "SFII-UF", "college": "Liberal Studies"}
+{"course_name": "South Asian Cultures- Global Cultures   ", "course_code": "SAGC-UF", "college": "Liberal Studies"}
+{"course_name": "Topics in Humanities", "course_code": "ELEC-UF", "college": "Liberal Studies"}
+{"course_name": "Writing II", "course_code": "WRII-UF", "college": "Liberal Studies"}
+{"course_name": "Advanced Global Cultures II", "course_code": "AGCII-UF", "college": "Liberal Studies"}
+{"course_name": "African Cultures- Global Cultures   ", "course_code": "AFGC-UF", "college": "Liberal Studies"}
+{"course_name": "Creative Writing", "course_code": "CWP-UF", "college": "Liberal Studies"}
+{"course_name": "Creative Writing II", "course_code": "CWII-UF", "college": "Liberal Studies"}
+{"course_name": "Cultural Foundations I", "course_code": "CFI-UF", "college": "Liberal Studies"}
+{"course_name": "Cultural Foundations III", "course_code": "CFIII-UF", "college": "Liberal Studies"}
+{"course_name": "East Asian Cultures- Global Cultures   ", "course_code": "EAGC-UF", "college": "Liberal Studies"}
+{"course_name": "Economics II", "course_code": "ECII-UF", "college": "Liberal Studies"}
+{"course_name": "Experiential Learning I", "course_code": "EXLI-UF", "college": "Liberal Studies"}
+{"course_name": "Global Topics: Sophomore Seminar", "course_code": "GT-UF", "college": "Liberal Studies"}
+{"course_name": "History of the Universe", "course_code": "HOU-UF", "college": "Liberal Studies"}
+{"course_name": "Internship", "course_code": "INT-UF", "college": "Liberal Studies"}
+{"course_name": "Junior Independent Research Seminar   ", "course_code": "JIRS-UF", "college": "Liberal Studies"}
+{"course_name": "Life Science", "course_code": "LISCI-UF", "college": "Liberal Studies"}
+{"course_name": "Science of Technology", "course_code": "SCTEC-UF", "college": "Liberal Studies"}
+{"course_name": "Senior Colloquium I", "course_code": "SCOI-UF", "college": "Liberal Studies"}
+{"course_name": "Senior Thesis I", "course_code": "STHI-UF", "college": "Liberal Studies"}
+{"course_name": "Social Foundations I", "course_code": "SFI-UF", "college": "Liberal Studies"}
+{"course_name": "Social Foundations III", "course_code": "SFIII-UF", "college": "Liberal Studies"}
+{"course_name": "Summer Academy", "course_code": "SUACD-UF", "college": "Liberal Studies"}
+{"course_name": "Writing I", "course_code": "WRI-UF", "college": "Liberal Studies"}
+{"course_name": "Abu Dhabi Seminar Program", "course_code": "ADSEM-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Anthropology", "course_code": "ANTH-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Arabic Language", "course_code": "ARABL-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Arts & Humanities Colloquia", "course_code": "AHC-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Biology", "course_code": "BIOL-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Chemistry", "course_code": "CHEM-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Core: Art, Technology & Invention   ", "course_code": "COREA-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Core: Pathways of World Literature   ", "course_code": "COREP-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Economics", "course_code": "ECON-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Engineering", "course_code": "ENGR-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "History", "course_code": "HIST-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Journalism", "course_code": "JOUR-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Law", "course_code": "LAW-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Literature & Creative Writing", "course_code": "LITCW-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Mathematics", "course_code": "MATH-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Multidisciplinary: The Ancient   World", "course_code": "MDANC-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Multidisciplinary: Urbanization   ", "course_code": "MDURB-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Music", "course_code": "MUSIC-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Philosophy", "course_code": "PHIL-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Physics", "course_code": "PHYS-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Psychology", "course_code": "PSYCH-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Sheikh Mohamed bin Zayed Scholars   Program", "course_code": "SMSP-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Social Sciences", "course_code": "SOCSC-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "University Studies", "course_code": "UNIST-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Writing", "course_code": "WRIT-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Abu Dhabi Summer Academy", "course_code": "ADSA-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Arab Crossroads", "course_code": "ACS-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Art and Art History", "course_code": "AAH-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Arts", "course_code": "ARTS-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Business & Organizational Studies   ", "course_code": "BUSOR-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Computer Science", "course_code": "CS-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Core: Ideas and Methods of Science   ", "course_code": "COREI-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Core: Structures of Thought &   Society", "course_code": "CORES-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Education", "course_code": "EDUC-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Film & Media", "course_code": "FILMM-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Humanities", "course_code": "HUM-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Latin", "course_code": "LATIN-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Leadership and Social Entrepreneurship   ", "course_code": "LEAD-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Mandarin Chinese Language", "course_code": "CHINL-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Multidisciplinary: Interactive   Media & Technology", "course_code": "MDMED-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Multidisciplinary: The Environment   ", "course_code": "MDENV-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Museum Studies", "course_code": "MUSST-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Peace Studies", "course_code": "PEACE-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Physical Education", "course_code": "PHYED-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Political Science", "course_code": "POLSC-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Science", "course_code": "SCIEN-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Social Research & Public Policy   ", "course_code": "SRPP-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Theater", "course_code": "THEAT-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Visual Arts", "course_code": "VISAR-AD", "college": "NYU Abu Dhabi"}
+{"course_name": "Art", "course_code": "ART-SHU", "college": "NYU Shanghai"}
+{"course_name": "Business and Finance", "course_code": "BUSF-SHU", "college": "NYU Shanghai"}
+{"course_name": "Chinese Language", "course_code": "CHIN-SHU", "college": "NYU Shanghai"}
+{"course_name": "Computer Science", "course_code": "CSCI-SHU", "college": "NYU Shanghai"}
+{"course_name": "Cultural Foundations", "course_code": "CCCF-SHU", "college": "NYU Shanghai"}
+{"course_name": "Electrical Engineering", "course_code": "EENG-SHU", "college": "NYU Shanghai"}
+{"course_name": "Foundations of Science", "course_code": "CCSC-SHU", "college": "NYU Shanghai"}
+{"course_name": "Global Programs", "course_code": "GLBL-SHU", "college": "NYU Shanghai"}
+{"course_name": "Interactive Media and Tech", "course_code": "INTM-SHU", "college": "NYU Shanghai"}
+{"course_name": "Neural Science", "course_code": "NEUR-SHU", "college": "NYU Shanghai"}
+{"course_name": "Social Foundations", "course_code": "CCSF-SHU", "college": "NYU Shanghai"}
+{"course_name": "Writing", "course_code": "WRIT-SHU", "college": "NYU Shanghai"}
+{"course_name": "Biology", "course_code": "BIOL-SHU", "college": "NYU Shanghai"}
+{"course_name": "Chemistry", "course_code": "CHEM-SHU", "college": "NYU Shanghai"}
+{"course_name": "Computer Engineering", "course_code": "CENG-SHU", "college": "NYU Shanghai"}
+{"course_name": "Core Science", "course_code": "CCST-SHU", "college": "NYU Shanghai"}
+{"course_name": "Economics", "course_code": "ECON-SHU", "college": "NYU Shanghai"}
+{"course_name": "Exper Discovery in Nat World", "course_code": "CCEX-SHU", "college": "NYU Shanghai"}
+{"course_name": "Global China Studies", "course_code": "GCHN-SHU", "college": "NYU Shanghai"}
+{"course_name": "Humanities", "course_code": "HUMN-SHU", "college": "NYU Shanghai"}
+{"course_name": "Mathematics", "course_code": "MATH-SHU", "college": "NYU Shanghai"}
+{"course_name": "Physics", "course_code": "PHYS-SHU", "college": "NYU Shanghai"}
+{"course_name": "Social Science", "course_code": "SOCS-SHU", "college": "NYU Shanghai"}
+{"course_name": "Advanced Honors Seminars", "course_code": "AHSEM-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Aerospace Engineering", "course_code": "AE-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Animal Studies", "course_code": "ANST-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Anthropology", "course_code": "ANTH-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Art History", "course_code": "AH-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Art Theory & Critical Studies", "course_code": "ARTCR-GE", "college": "Polytechnic School of Engineering"}
+{"course_name": "BioEngineering", "course_code": "BE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Bioinformatics", "course_code": "BI-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Biomolecular Science", "course_code": "BMS-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Biotechnology & Entrepreneurship   ", "course_code": "BTE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Chem & Biological Engineering", "course_code": "CBE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Chemical & Biological Engineerng   ", "course_code": "CBE-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Chemical Engineering", "course_code": "CH-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Chemistry", "course_code": "CHEM-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Chemistry", "course_code": "CM-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Cinema Studies", "course_code": "CINE-GT", "college": "Polytechnic School of Engineering"}
+{"course_name": "Civil & Urban Engineering", "course_code": "CE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Co-op Education Program", "course_code": "CP-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Computer Science", "course_code": "CS-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Computer Science", "course_code": "CSCI-GA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Core Course", "course_code": "COR1-GB", "college": "Polytechnic School of Engineering"}
+{"course_name": "Ctr for Urban Sci and Progress", "course_code": "CUSP-GX", "college": "Polytechnic School of Engineering"}
+{"course_name": "Dance Education", "course_code": "MPADE-UE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Distance Learning", "course_code": "DL-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "East Asian Studies", "course_code": "EAST-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Educational Communications & Technology   ", "course_code": "EDCT-GE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Elect. Engineering - EL GRAD", "course_code": "EL", "college": "Polytechnic School of Engineering"}
+{"course_name": "Electrophysics", "course_code": "EP-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "English", "course_code": "EN-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Environmental Science", "course_code": "ES-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Environmental Studies", "course_code": "ENVST-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Expository Writing", "course_code": "EXPOS-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Finance", "course_code": "FINC-UB", "college": "Polytechnic School of Engineering"}
+{"course_name": "Financial Engineering", "course_code": "FE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Foreign Language", "course_code": "FL-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Game Design", "course_code": "GAMES-GT", "college": "Polytechnic School of Engineering"}
+{"course_name": "General Studies", "course_code": "GS-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Hebrew & Judaic Studies", "course_code": "HBRJD-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Hellenic Studies", "course_code": "HEL-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "History", "course_code": "HI-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "History of Science", "course_code": "ST-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Humanities & Social Sciences", "course_code": "HUSS-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Humanities", "course_code": "HU-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Industrial Engineering", "course_code": "IE-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Information Systems", "course_code": "INFO-UB", "college": "Polytechnic School of Engineering"}
+{"course_name": "Integrated Digital Media", "course_code": "DM-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Interarea", "course_code": "INTA-GB", "college": "Polytechnic School of Engineering"}
+{"course_name": "Interdisciplinary Studies", "course_code": "IS-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Journalism", "course_code": "JW-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Law", "course_code": "LW-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Liberal Arts", "course_code": "LA-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Life Sciences", "course_code": "LS-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Management", "course_code": "MG-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Manufacturing Engineering", "course_code": "MN-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Marketing", "course_code": "MKTG-GB", "college": "Polytechnic School of Engineering"}
+{"course_name": "Materials Science", "course_code": "MT-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Math", "course_code": "MATH-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Mathematics", "course_code": "MA-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Mechanical & Aerospace Engr", "course_code": "AM-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Mechanical Engineering", "course_code": "ME-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Media Studies", "course_code": "MD-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Media, Culture & Communication", "course_code": "MCC-UE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Modern Language", "course_code": "ML-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Morse Academic Plan (MAP)", "course_code": "MAP-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Music Instrumental: Jazz", "course_code": "MPAJZ-UE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Music Performance/Theory & Composition   ", "course_code": "MPATC-UE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Music Technology", "course_code": "MPATE-UE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Open Arts Curriculum", "course_code": "OART-UT", "college": "Polytechnic School of Engineering"}
+{"course_name": "Operations Research", "course_code": "OR-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Organizational Behavior", "course_code": "OB-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Philosophy", "course_code": "PL-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Photography and Imaging", "course_code": "PHTI-GT", "college": "Polytechnic School of Engineering"}
+{"course_name": "Physical Education", "course_code": "PE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Physics", "course_code": "PH-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Physics", "course_code": "PHYS-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Portuguese", "course_code": "PORT-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Psychology", "course_code": "PS-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Public Health", "course_code": "PUHE-UE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Risk Engineering", "course_code": "RSK-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "SA", "course_code": "SA-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Science and Technology", "course_code": "STS-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Social Science", "course_code": "SS-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Society, Environment, & Globalization   ", "course_code": "SEG-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Spanish", "course_code": "SPAN-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Student Life", "course_code": "SL-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Studio Art", "course_code": "ART-UE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Systems Engineering", "course_code": "SE-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Technical Elective", "course_code": "TE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Transportation", "course_code": "TR-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "UG Public and Nonprofit Management   and Policy", "course_code": "UPADM-GP", "college": "Polytechnic School of Engineering"}
+{"course_name": "Urban Studies", "course_code": "URB-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Aerospace Engineering", "course_code": "AE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "American Language Institute", "course_code": "CESL1-CE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Anthropology", "course_code": "AN-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Applied Psychology", "course_code": "APSY-UE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Art History", "course_code": "ARTH-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Arts Workshops", "course_code": "ARTS-UG", "college": "Polytechnic School of Engineering"}
+{"course_name": "BioEngineering", "course_code": "BE-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Biology", "course_code": "BIOL-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Biomolecular Science", "course_code": "BMS-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Biotechnology", "course_code": "BT-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Chemical & Biological Engineerng   ", "course_code": "CBE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Chemical Engineering", "course_code": "CH-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Chemistry", "course_code": "CHEM-GA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Chemistry", "course_code": "CM-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Child/Adoles Mental Hlth Stds", "course_code": "CAMS-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Cinema Studies", "course_code": "CINE-UT", "college": "Polytechnic School of Engineering"}
+{"course_name": "Civil & Urban Engineering", "course_code": "CE-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Co-op Education Program", "course_code": "CP-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Computer Science", "course_code": "CS-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Computer Science", "course_code": "CSCI-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Creative Writing", "course_code": "CRWRI-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Culture, Arts, and Media", "course_code": "CAM-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Data Science", "course_code": "DS-GA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Dramatic Literature", "course_code": "DRLIT-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Economics", "course_code": "EC-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Elect. Engineering - EE UGRD", "course_code": "EE-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Elect. Engineering - EL GRAD", "course_code": "EL-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "English", "course_code": "EN-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "English", "course_code": "ENGL-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Environmental Science", "course_code": "ES-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Exam Hour", "course_code": "EX-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Finance", "course_code": "FIN-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Finance and Risk Engineering", "course_code": "FRE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Food Studies", "course_code": "FOOD-UE", "college": "Polytechnic School of Engineering"}
+{"course_name": "French", "course_code": "FREN-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "General Engineering", "course_code": "EG-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Global Programs", "course_code": "GLBL-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Hebrew and Judaic Studies", "course_code": "HBRJD-GA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Higher Educational Opportunity   Program", "course_code": "HE-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "History", "course_code": "HIST-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Honors College", "course_code": "HC-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Humanities", "course_code": "HU-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Industrial Engineering", "course_code": "IE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Information Systems", "course_code": "INFO-GB", "college": "Polytechnic School of Engineering"}
+{"course_name": "Integrated Digital Media", "course_code": "DM-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Interactive Telecommunications", "course_code": "ITPG-GT", "college": "Polytechnic School of Engineering"}
+{"course_name": "Interdisciplinary Seminars", "course_code": "IDSEM-UG", "college": "Polytechnic School of Engineering"}
+{"course_name": "Journalism", "course_code": "JOUR-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Journalism", "course_code": "JW-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Law", "course_code": "LW-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Life Sciences", "course_code": "LS-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Management", "course_code": "MG-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Management Communications", "course_code": "MCOM-GB", "college": "Polytechnic School of Engineering"}
+{"course_name": "Manufacturing Engineering", "course_code": "MN-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Marketing", "course_code": "MKTG-UB", "college": "Polytechnic School of Engineering"}
+{"course_name": "Materials Science", "course_code": "MT-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Mathematics", "course_code": "MA-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Mathematics", "course_code": "MATH-GA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Mechanical & Aerospace Engr", "course_code": "AM-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Mechanical Engineering", "course_code": "ME-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Media, Culture & Communication", "course_code": "MCC-GE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Middle Eastern and Islamic Studies   ", "course_code": "MEIS-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Modern Language", "course_code": "ML-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Music", "course_code": "MU-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Music Instrumental: Voice", "course_code": "MPAVP-UE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Music Technology", "course_code": "MPATE-GE", "college": "Polytechnic School of Engineering"}
+{"course_name": "Neural Science", "course_code": "NEURL-GA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Operations Management", "course_code": "OPMG-GB", "college": "Polytechnic School of Engineering"}
+{"course_name": "Operations Research", "course_code": "OR-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Philosophy", "course_code": "PHIL-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Philosophy", "course_code": "PL-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Photography and Imaging", "course_code": "PHTI-UT", "college": "Polytechnic School of Engineering"}
+{"course_name": "Physical Education", "course_code": "PE-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Physics", "course_code": "PH-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Political Science", "course_code": "PO-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Psychology", "course_code": "PS-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Psychology", "course_code": "PSYCH-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Registrar", "course_code": "RE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Russian & Slavic Studies", "course_code": "RUSSN-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "SA", "course_code": "SA-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Social Research & Public Policy   ", "course_code": "SRPP-AD", "college": "Polytechnic School of Engineering"}
+{"course_name": "Social Science", "course_code": "SS-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Sociology", "course_code": "SOC-UA", "college": "Polytechnic School of Engineering"}
+{"course_name": "Statistics & Operations Research   ", "course_code": "STAT-UB", "college": "Polytechnic School of Engineering"}
+{"course_name": "Student Life", "course_code": "SL-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Systems Engineering", "course_code": "SE-GY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Technical Communications", "course_code": "TC-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Transportation", "course_code": "TR", "college": "Polytechnic School of Engineering"}
+{"course_name": "Transportation", "course_code": "TR-UY", "college": "Polytechnic School of Engineering"}
+{"course_name": "Undergrad Film & TV", "course_code": "FMTV-UT", "college": "Polytechnic School of Engineering"}
+{"course_name": "Urban planning course", "course_code": "URPL-GP", "college": "Polytechnic School of Engineering"}
+{"course_name": "Capstone course", "course_code": "CAP-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "Executive MPA course", "course_code": "EXEC-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "Independent reading course", "course_code": "INDEP-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "Noncredit course", "course_code": "NONCR-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "Reynolds program course", "course_code": "REYN-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "UG Public and Nonprofit Management   and Policy", "course_code": "UPADM-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "Doctoral course", "course_code": "PHD-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "Health policy and management course   ", "course_code": "HPAM-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "International specialization course   ", "course_code": "INTL-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "Public and Nonprofit Management   and Policy", "course_code": "PADM-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "School-wide core course", "course_code": "CORE-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "Urban planning course", "course_code": "URPL-GP", "college": "Robert F. Wagner Graduate School of Public Service"}
+{"course_name": "Academic Enrichment", "course_code": "AENR1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "American Language Institute", "course_code": "DESL1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Anthropology", "course_code": "ANTH1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Arts", "course_code": "ARTS1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Construction Management MA/GC", "course_code": "CONM1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Credit Analysis Diploma", "course_code": "CRED1-DC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Digital Communications & Media   ", "course_code": "DGCM1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Digital Imaging & Dsgn MA", "course_code": "MSDI1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Experiential Learning", "course_code": "EXPR1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Fundraising MS", "course_code": "FDGR1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Graphic Communications", "course_code": "GCOM1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "History", "course_code": "HIST1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Hotel & Tourism Management", "course_code": "TCHT1-DC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Humanities", "course_code": "HUMN1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Integrated Marketing", "course_code": "INTG1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "International Studies", "course_code": "INST1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Literature", "course_code": "LITR1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Management & Systems MA/GC", "course_code": "MASY1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Media Studies", "course_code": "MEST1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Paralegal", "course_code": "PARAL-DC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Professional Writing", "course_code": "PWRT1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Public Administration", "course_code": "PADM1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Publishing Masters", "course_code": "PUBB1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "RE Development", "course_code": "DEVE1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Real Estate Masters/GC", "course_code": "REAL1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "SCPS Undergraduate Bootcamp", "course_code": "HSBSU-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Science", "course_code": "SCNC1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Sociology", "course_code": "SOCY1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Sports Management", "course_code": "TCSM1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Summer High School Academy", "course_code": "HSASU-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Translation", "course_code": "TRAN1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Advanced Digital Application", "course_code": "MGFX1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "American Language Institute", "course_code": "DESL1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Art History", "course_code": "ARTH1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Business", "course_code": "BUSN1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Creative Writing", "course_code": "CWRG1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Diagnostic Medical Sonography", "course_code": "SONH1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Digital Communications & Media   ", "course_code": "FILV1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Economics", "course_code": "ECON1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Expository Writing", "course_code": "EXWR1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Global Studies", "course_code": "GLOB1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Healthcare Management", "course_code": "HEAL1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Hospitality Management MA/GC", "course_code": "TCHS1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Hotel & Tourism Management", "course_code": "TCHT1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Information Systems Management   ", "course_code": "ISMM1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Interdisciplinary", "course_code": "ELEC1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Leadership and Management Studies   ", "course_code": "LRMS1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "MS in Human Resources", "course_code": "HRCM1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Math", "course_code": "MATH1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Organizational Behavior and Communications   ", "course_code": "ORBC1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Politics", "course_code": "POLS1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Psychology", "course_code": "PSYC1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Public Relations MS", "course_code": "PRCC1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Quality Assurance", "course_code": "QUAL1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Real Estate", "course_code": "REAL1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Religion", "course_code": "RELG1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Schack Undergraduate Real Esta   ", "course_code": "REBS1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Social Sciences", "course_code": "SOCS1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Sports Business Magmt. MA/GC", "course_code": "TCSB1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Study Abroad", "course_code": "SABR1-UC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Tourism Management", "course_code": "TCTM1-GC", "college": "School of Continuing and Professional Studies"}
+{"course_name": "Law Courses", "course_code": "LAW-LW", "college": "School of Law"}
+{"course_name": "Forensic Medicine", "course_code": "FRMED-MD", "college": "School of Medicine"}
+{"course_name": "Interdepartmental", "course_code": "INTER-MD", "college": "School of Medicine"}
+{"course_name": "Advanced Concentration Courses   ", "course_code": "MSWAC-GS", "college": "Silver School of Social Work"}
+{"course_name": "Electives", "course_code": "MSWEL-GS", "college": "Silver School of Social Work"}
+{"course_name": "Maintenance", "course_code": "MAINT-GS", "college": "Silver School of Social Work"}
+{"course_name": "Undergrad Social Work", "course_code": "UNDSW-US", "college": "Silver School of Social Work"}
+{"course_name": "Doctoral", "course_code": "PHDSW-GS", "college": "Silver School of Social Work"}
+{"course_name": "Fieldlearning", "course_code": "MSWFD-GS", "college": "Silver School of Social Work"}
+{"course_name": "Professional Foundation Courses   ", "course_code": "MSWPF-GS", "college": "Silver School of Social Work"}
+{"course_name": "Administration, Leadership & Technology   ", "course_code": "AMLT-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Applied Statistics in Social Research   ", "course_code": "APSTA-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Art Education", "course_code": "ARTED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Art Therapy", "course_code": "ARTT-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Bilingual Education", "course_code": "BILED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Communicative Sciences & Disorders   ", "course_code": "CSCD-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Costume Studies", "course_code": "ARCS-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Dance Education", "course_code": "MPADE-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Doctoral Advisement", "course_code": "DCADV-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Early Childhood", "course_code": "ECED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Educational Administration Educational   Leadership", "course_code": "EDLED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Educational Policy", "course_code": "EDPLY-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "English Education", "course_code": "ENGED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Food Studies", "course_code": "FOOD-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Higher & Post-Secondary Education   ", "course_code": "HPSE-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Humanities & Social Sciences in   the Professions", "course_code": "HMSS-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Interactive Music Courses", "course_code": "MPAIA-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "International Education", "course_code": "INTE-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Literacy Education", "course_code": "LITC-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Mathematics Education", "course_code": "MTHED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Media, Culture & Communication", "course_code": "MCC-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Education", "course_code": "MPAME-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Instrumental: Jazz", "course_code": "MPAJZ-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Instrumental: Piano", "course_code": "MPAPE-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Instrumental: Voice", "course_code": "MPAVP-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Performance/Theory & Composition   ", "course_code": "MPATC-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Therapy", "course_code": "MPAMT-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Occupational Therapy", "course_code": "OT-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Philosophy of Education", "course_code": "PHED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Physical Therapy", "course_code": "PT-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Programs in Applied Psychology", "course_code": "APSY-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Reading Recovery", "course_code": "RDREC-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Science & Mathematics Education   ", "course_code": "SCMTH-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Social Studies Education", "course_code": "SOCED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Special Education", "course_code": "SPCED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Studio Art", "course_code": "ART-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Teaching & Learning", "course_code": "TCHL-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Visual Arts Administration", "course_code": "ARVA-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Applied Psychology", "course_code": "APSY-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Art & Art Professions", "course_code": "ARTP-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Art Theory & Critical Studies", "course_code": "ARTCR-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Arts & Humanities Education", "course_code": "AHUM-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Childhood Education", "course_code": "CHDED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Consortium Courses", "course_code": "CONS", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Dance Education", "course_code": "MPADE-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Departmental Courses", "course_code": "MPAGC-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Drama Therapy", "course_code": "MPADT-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Education & Jewish Studies", "course_code": "EJST-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Educational Communications & Technology   ", "course_code": "EDCT-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Educational Theatre", "course_code": "MPAET-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Environmental Conservative Education   ", "course_code": "ENYC-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Foreign Language Education", "course_code": "FLGED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "History of Education", "course_code": "HSED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Inter-University Doctoral Consortium   ", "course_code": "IUCD-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Interdepartmental Research Studies   ", "course_code": "RESCH-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Language Education", "course_code": "LANED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Maintenance", "course_code": "MAINT-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Media, Culture & Communication", "course_code": "MCC-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Business", "course_code": "MPAMB-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Instrumental: Brass", "course_code": "MPABR-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Instrumental: Percussion   ", "course_code": "MPAPS-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Instrumental: Strings", "course_code": "MPASS-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Instrumental: Woodwinds", "course_code": "MPAWW-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Music Technology", "course_code": "MPATE-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Nutrition & Dietetics", "course_code": "NUTR-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Performing Arts Administration   ", "course_code": "MPAPA-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Philosophy of Education", "course_code": "PHED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Physical Therapy", "course_code": "PT-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Public Health", "course_code": "PUHE-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Science & Mathematics Education   ", "course_code": "SCMTH-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Science Education", "course_code": "SCIED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Sociology of Education", "course_code": "SOED-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Student Affairs Honors & Seminars   ", "course_code": "SAHS-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Studio Art", "course_code": "ART-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Teaching English as a Second Language   ", "course_code": "TESOL-GE", "college": "Steinhardt School of Culture, Education, and Human Development - Graduate"}
+{"course_name": "Advanced College Essay", "course_code": "ACE-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Applied Psychology", "course_code": "APSY-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Art & Art Professions", "course_code": "ARTP-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Art Therapy", "course_code": "ARTT-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Communicative Sciences & Disorders   ", "course_code": "CSCD-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Departmental Courses", "course_code": "MPAGC-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Educational Communication and   Technology", "course_code": "EDCT-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "English Education", "course_code": "ENGED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "For Tisch Musical Theatre", "course_code": "MPATA-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Higher & Post-Secondary Educ", "course_code": "HPSE-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "History of Education", "course_code": "HSED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "International Education", "course_code": "INTE-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Literacy Education", "course_code": "LITC-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Mathematics Education", "course_code": "MTHED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Business", "course_code": "MPAMB-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Instrumental: Brass", "course_code": "MPABR-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Instrumental: Percussion   ", "course_code": "MPAPS-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Instrumental: Strings", "course_code": "MPASS-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Instrumental: Woodwinds", "course_code": "MPAWW-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Technology", "course_code": "MPATE-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Non-Credit Summer Program", "course_code": "SUMPA-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Occupational Therapy", "course_code": "OT-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Physical Therapy", "course_code": "PT-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Public Health", "course_code": "PUHE-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Social Studies Education", "course_code": "SOCED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Special Education", "course_code": "SPCED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Studio Art", "course_code": "ART-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "American Sign Language", "course_code": "ASL-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Applied Statistics in Social Research   ", "course_code": "APSTA-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Art Theory & Critical Studies", "course_code": "ARTCR-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Childhood Education", "course_code": "CHDED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Dance Education", "course_code": "MPADE-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Early Childhood", "course_code": "ECED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Educational Theatre", "course_code": "MPAET-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Food Studies", "course_code": "FOOD-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Foreign Language Education", "course_code": "FLGED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Higher Education Opportunities   Program", "course_code": "HEOP-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Interactive Music Courses", "course_code": "MPAIA-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Liberal Arts Core", "course_code": "LIBAR-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Maintenance", "course_code": "MAINT-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Media, Culture & Communication", "course_code": "MCC-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Education", "course_code": "MPAME-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Instrumental: Jazz", "course_code": "MPAJZ-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Instrumental: Piano", "course_code": "MPAPE-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Instrumental: Voice", "course_code": "MPAVP-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Performance/Theory & Composition   ", "course_code": "MPATC-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Music Therapy", "course_code": "MPAMT-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Nutrition & Dietetics", "course_code": "NUTR-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Philosophy of Education", "course_code": "PHED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Programs in Applied Psychology", "course_code": "APSY-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Science Education", "course_code": "SCIED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Sociology of Education", "course_code": "SOED-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Student Affairs Honors & Seminars   ", "course_code": "SAHS-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Teaching & Learning", "course_code": "TCHL-UE", "college": "Steinhardt School of Culture, Education, and Human Development - Undergraduate"}
+{"course_name": "Animation and Digital Arts", "course_code": "ANDA-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Cinema Studies", "course_code": "CINE-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Ctr for Art, Society & Pub Pol", "course_code": "ASPP-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Dance", "course_code": "DANC-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Drama", "course_code": "THEA-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Dramatic Writing", "course_code": "DWPG-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Graduate Acting", "course_code": "ACTG-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Graduate Film & TV", "course_code": "GFMTV-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Int`l Pgms, Dance", "course_code": "IDANC-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Int`l Pgms, Film & Television", "course_code": "IFMTV-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Interactive Telecommunications", "course_code": "ITPG-GT", "college": "Tisch School of the Arts"}
+{"course_name": "International Media Producing", "course_code": "PRDS-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Musical Theatre", "course_code": "GMTW-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Non-Credit TSOA Courses", "course_code": "NCRD-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Open Arts Curriculum", "course_code": "OART-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Performance Studies", "course_code": "PERF-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Photography and Imaging", "course_code": "PHTI-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Recorded Music", "course_code": "REMU-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Spr Semester at Tisch - Drama", "course_code": "STHTR-UT", "college": "Tisch School of the Arts"}
+{"course_name": "TSOA International Topics Pgm", "course_code": "IOART-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Cinema Studies", "course_code": "CINE-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Ctr for Art, Society & Pub Pol", "course_code": "ASPP-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Dance", "course_code": "DANC-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Design", "course_code": "DESG-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Dramatic Writing", "course_code": "DWPG-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Game Design", "course_code": "GAMES-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Graduate Film & TV", "course_code": "FMTV-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Int`l Pgms, Cinema Studies", "course_code": "ICINE-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Int`l Pgms, Drama", "course_code": "ITHEA-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Int`l Pgms, Photography", "course_code": "IPHTI-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Interdisciplinary", "course_code": "IDSC-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Maintenance", "course_code": "MAINT-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Musical Theatre", "course_code": "GMTW-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Non-Credit TSOA Courses", "course_code": "NCRD-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Open Arts Curriculum", "course_code": "OART-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Performance Studies", "course_code": "PERF-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Photography and Imaging", "course_code": "PHTI-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Spr Sem at Tisch - Film & TV", "course_code": "SFMTV-UT", "college": "Tisch School of the Arts"}
+{"course_name": "TSOA International Topics Pgm", "course_code": "IOART-GT", "college": "Tisch School of the Arts"}
+{"course_name": "Undergrad Film & TV", "course_code": "FMTV-UT", "college": "Tisch School of the Arts"}
+{"course_name": "Global Public Health", "course_code": "GPH-GU", "college": "University College"}
+{"course_name": "Undergraduate Global Public Health   ", "course_code": "UGPH-GU", "college": "University College"}
+{"course_name": "Maintenance", "course_code": "MAINT-GU", "college": "University College"}
