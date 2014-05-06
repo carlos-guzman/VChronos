@@ -1,0 +1,87 @@
+extends ../layout
+
+block content
+	.page-header
+		h1.alignCenter Create My Schedule
+	#searchClasses
+		form
+			input(type='search', name='toSearch').input-sm.giveSpace
+			//(action='look through carlos scraped', method='POST')
+			select.giveSpace
+				option(value='searchEverything') Term
+				option(value='searchClassName') Class Name
+				option(value='searchCourseID') Course ID
+				option(value='searchDescription') Description
+			input(type='submit', value='Search')
+
+	#showClass
+		h3.alignCenter COURSE ID Class Name, X Credits
+		h4.alignCenter School Name
+		h5.alignCenter Session: Fall 2014
+		p.
+			This is a course description course description course description.
+			This is describing a course. Course description course description.
+			There are many things to say about this course. 
+			Course description course description course description.
+			Like what it is about. Course description course description. 
+			Course description course description course description.
+			This is what to expect if you enroll in this class. 
+			Course description course description course description.
+			Course description course description course description.
+			You should really sign up for this course. 
+		.filterAddClasses
+			h5 Instructors
+			form.checkbox
+				input(type='checkbox', name='instructor', value='x') 
+				| Professor X
+				br
+				//value='whatever is given?'
+				input(type='checkbox', name='instructor', value='y') 
+				| Professor Y
+				br
+				input(type='checkbox', name='instructor', value='z') 
+				| Professor Z
+			h5 Locations
+			form.checkbox
+				input(type='checkbox', name='location', value='locx')
+				| Location X
+				br
+				input(type='checkbox', name='location', value='locy')
+				| 25W4
+				br
+				input(type='checkbox', name='location', value='locz')
+				| GCASL 201
+			h5 Times
+			form.checkbox
+				input(type='checkbox', name='classtime', value='timea')
+				| Time Beginning to Time End
+				br
+				input(type='checkbox', name='time', value='timeb')
+				| 11:00 AM - 12:15 PM
+		form.bottomRightButton
+			input(type='button', value='+ Add to Schedule').buttonBlackText
+
+	aside#sidebarAddedClasses
+		h4.alignCenter Classes
+		//p.
+			You haven't added any classes yet!
+			Go ahead and search for some classes and add them, so we can generate your schedule.
+		p.
+			These are the classes you want to compare in your schedule.
+		.sidebarShowClass
+			h6 Number CLASS ID Class Name, X Credits
+			form
+				input(type='button', value='Remove').buttonBlackText
+			h6 1. MATH-UA 5555 Mathematics, 4 Credits
+			form
+				input(type='button', value='Remove').buttonBlackText
+			h6 2. IDSEM-UG 0000 Gallatin, 4 Credits
+			form
+				input(type='button', value='Remove').buttonBlackText
+			h6 3. OARTS-XX 9999 Open Arts, 2 Credits
+			form
+				input(type='button', value='Remove').buttonBlackText
+		form.bottomRightButton
+			//form(action='dat generate function schedule yo')
+			input(type='button', value='Generate Schedules').buttonBlackText
+
